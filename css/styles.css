@@ -1,0 +1,15 @@
+.cont {
+    margin-bottom: 50px;
+}
+.number-input {
+    margin-right: 20px;
+    border: 2px solid violet;
+    height: 30px;
+}
+.submit {
+    background-color: violet;
+    width: 150px;
+    height: 30px;
+    color: aliceblue;
+    font-size: 18px;
+}
